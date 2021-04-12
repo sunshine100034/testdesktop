@@ -7,3 +7,5 @@ hello github desktop!!
 4. 继续修改，上一步没有push
 
 5. commit, 查看没有push的在哪里标记
+
+6. 创建了分支branch，观察效果
