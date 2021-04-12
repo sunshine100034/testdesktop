@@ -5,3 +5,5 @@ hello github desktop!!
 3. 再次修改文件，多次commit，一次push测试
 
 4. 继续修改，上一步没有push
+
+5. commit, 查看没有push的在哪里标记
